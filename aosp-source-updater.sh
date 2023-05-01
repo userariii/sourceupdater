@@ -2,7 +2,7 @@
 printf "----------------------\n"
 printf "DELETING REPOSITORIES"
 printf "----------------------\n"
-rm -rf frameworks/base ../packages/apps/Updates ../packages/apps/Settings ../vendor/aosp
+rm -rf ../frameworks/base ../packages/apps/Updates ../packages/apps/Settings ../vendor/aosp
 printf "----------------------------------------\n"
 printf "STARTED CLONING MODIFIED REPOSITORIES\n"
 printf "----------------------------------------\n"
